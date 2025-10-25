@@ -13,6 +13,8 @@ import plotly.figure_factory as ff
 # -----------------------------------------------------
 st.set_page_config(page_title="Lotus-Gold Consulting", layout="wide")
 
+
+st.header('Lotus-Gold Consulting')
 st.markdown('---')
 st.image('./4.jpg')
 st.markdown('---')
